@@ -1,1 +1,1 @@
-git test
+This is Mrlurtch's first Git project!
